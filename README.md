@@ -1,7 +1,7 @@
 # Hi, I'm J. Ranta 👋
 ### M.Sc. Full Stack Software Developer | Health AI & Synthetic Data Scientist
 
-A Health Data Science and Software Engineering specialist focused on generative AI, synthetic data generation, and full-stack system architecture. I bridge the gap between complex biomedical datasets, privacy-preserving machine learning models, and modern user-facing applications.
+A Health Data Science and Software Engineering specialist focused on generative AI, synthetic data generation, and full-stack system architecture. I routinely work with complex biomedical datasets, privacy-preserving machine learning models, and modern user-facing applications as well as some light web development for fun.
 
 ---
 
